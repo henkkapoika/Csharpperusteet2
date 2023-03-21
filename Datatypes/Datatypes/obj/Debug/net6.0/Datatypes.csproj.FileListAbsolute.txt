@@ -1,0 +1,15 @@
+C:\Users\henrik.nerg\source\repos\Datatypes\Datatypes\bin\Debug\net6.0\Datatypes.exe
+C:\Users\henrik.nerg\source\repos\Datatypes\Datatypes\bin\Debug\net6.0\Datatypes.deps.json
+C:\Users\henrik.nerg\source\repos\Datatypes\Datatypes\bin\Debug\net6.0\Datatypes.runtimeconfig.json
+C:\Users\henrik.nerg\source\repos\Datatypes\Datatypes\bin\Debug\net6.0\Datatypes.dll
+C:\Users\henrik.nerg\source\repos\Datatypes\Datatypes\bin\Debug\net6.0\Datatypes.pdb
+C:\Users\henrik.nerg\source\repos\Datatypes\Datatypes\obj\Debug\net6.0\Datatypes.csproj.AssemblyReference.cache
+C:\Users\henrik.nerg\source\repos\Datatypes\Datatypes\obj\Debug\net6.0\Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henrik.nerg\source\repos\Datatypes\Datatypes\obj\Debug\net6.0\Datatypes.AssemblyInfoInputs.cache
+C:\Users\henrik.nerg\source\repos\Datatypes\Datatypes\obj\Debug\net6.0\Datatypes.AssemblyInfo.cs
+C:\Users\henrik.nerg\source\repos\Datatypes\Datatypes\obj\Debug\net6.0\Datatypes.csproj.CoreCompileInputs.cache
+C:\Users\henrik.nerg\source\repos\Datatypes\Datatypes\obj\Debug\net6.0\Datatypes.dll
+C:\Users\henrik.nerg\source\repos\Datatypes\Datatypes\obj\Debug\net6.0\refint\Datatypes.dll
+C:\Users\henrik.nerg\source\repos\Datatypes\Datatypes\obj\Debug\net6.0\Datatypes.pdb
+C:\Users\henrik.nerg\source\repos\Datatypes\Datatypes\obj\Debug\net6.0\Datatypes.genruntimeconfig.cache
+C:\Users\henrik.nerg\source\repos\Datatypes\Datatypes\obj\Debug\net6.0\ref\Datatypes.dll
