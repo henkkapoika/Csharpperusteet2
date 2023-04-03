@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lampotila muunnin", "Lampotila muunnin\Lampotila muunnin.csproj", "{63F16B6D-CC19-4114-93EB-2E42F6BD51BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63F16B6D-CC19-4114-93EB-2E42F6BD51BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F16B6D-CC19-4114-93EB-2E42F6BD51BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F16B6D-CC19-4114-93EB-2E42F6BD51BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F16B6D-CC19-4114-93EB-2E42F6BD51BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {229675C1-1926-43EF-9B37-C1197B52C450}
+	EndGlobalSection
+EndGlobal
