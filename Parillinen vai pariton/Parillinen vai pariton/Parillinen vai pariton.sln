@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parillinen vai pariton", "Parillinen vai pariton\Parillinen vai pariton.csproj", "{483124F8-65F7-4FDA-9BAE-CB54F98D724F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{483124F8-65F7-4FDA-9BAE-CB54F98D724F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483124F8-65F7-4FDA-9BAE-CB54F98D724F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483124F8-65F7-4FDA-9BAE-CB54F98D724F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483124F8-65F7-4FDA-9BAE-CB54F98D724F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1174D644-D837-467F-B1F8-411DEB2C2C86}
+	EndGlobalSection
+EndGlobal
