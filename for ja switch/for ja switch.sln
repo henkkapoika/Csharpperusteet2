@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for ja switch", "for ja switch\for ja switch.csproj", "{5197AEC0-3C08-4D4E-956C-15B030316B56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5197AEC0-3C08-4D4E-956C-15B030316B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5197AEC0-3C08-4D4E-956C-15B030316B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5197AEC0-3C08-4D4E-956C-15B030316B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5197AEC0-3C08-4D4E-956C-15B030316B56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B74D31C-D062-4E2A-88F2-4EEC5672A07E}
+	EndGlobalSection
+EndGlobal
