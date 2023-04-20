@@ -37,9 +37,9 @@ namespace Etsi_kirjaimia_merkkijonosta_Listaan
                 charsTested += word1[i];
             }
 
-            foreach ((char c, int i) pair in charsInCommon)
+            foreach ((char c, int i) in charsInCommon)
             {
-                Console.WriteLine($"Merkki {pair.c} löytyi {pair.i} kerran/kertaa");
+                Console.WriteLine($"Merkki {c} löytyi {i} kerran/kertaa");
             }
 
 
