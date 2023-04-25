@@ -16,6 +16,11 @@ namespace Funktiot___Pinta_alat_ja_tilavuudet
             Console.WriteLine($"Area on square one is: {squareOne.Area()}");
             Console.WriteLine($"Circumference on square one is: {squareOne.Circumference()}");
 
+            Triangle1 triangleOne = new Triangle1(2, 5);
+            Console.WriteLine($"Area of the triangle one is: {triangleOne.Area()}");
+            Console.WriteLine($"Perimeter of the triangle one is: {triangleOne.Perimeter()}");
+
+            Console.WriteLine();
             Console.WriteLine("Press any key to exit");
             Console.ReadKey();
         }
@@ -47,16 +52,6 @@ namespace Funktiot___Pinta_alat_ja_tilavuudet
             return (Width * 2) + (Heigth * 2);
         }
     }
-
-    public class Triangle
-    {
-        public double MyProperty { get; set; }
-
-
-
-    }
-
-
 
 
 }
