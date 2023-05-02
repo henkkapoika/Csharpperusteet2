@@ -1,0 +1,9 @@
+public class Kata
+{
+  public static string FireFight(string s)
+  {
+    
+    string result = s.Replace("Fire", "~~");
+    return result;
+    }
+}

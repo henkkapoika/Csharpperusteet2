@@ -1,0 +1,27 @@
+public static int[] LastDigit(long n, int d)
+        {
+            if (d < 0)
+            {
+                return new int[] { };
+            }
+
+
+            string asText = n.ToString();
+
+            if (d > asText.Length)
+            {
+                d = asText.Length;
+            }
+
+            int[] result = new int[d];
+            int arrayIndex = result.Length - 1;
+
+            for (int i = asText.Length - 1; i >= asText.Length - d; i--)
+            {
+
+                result[arrayIndex] = int.Parse(asText[i].ToString());
+                arrayIndex--;
+            }
+
+            return result;
+        }
