@@ -68,11 +68,15 @@ namespace Kaikkien_aiheiden_kertaus
                 Console.WriteLine(a);
             }
 
+            Person person = new Person("Rami", 80);
+            person.PrintDetails();
 
             Console.WriteLine($"{age} {height} {name} {letter} {whatAbout(name)}");
 
             Console.WriteLine("Press any key to exit");
             Console.ReadKey();
+        
+        
         }
         private static bool whatAbout (string name)
         {
